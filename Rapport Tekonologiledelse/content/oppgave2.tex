@@ -1,9 +1,9 @@
 \chapter{Mulighetsanalyse}
-\subsection{Beskrivelse av produkt/tjenestekonsept}
-\subsubsection{Hvilket problem løses}
+\section{Beskrivelse av produkt/tjenestekonsept}
+\subsection{Hvilket problem løses}
 Kaffe er en viktig del av manges hverdag. Den har en oppkvikkende effekt og for mange er kaffekoppen fast inventar ved kontorplassen. Kaffen smaker best i et bestemt temperaturintervall (FINN UT: Høyst sannsynlig 60 - 80 grader), og det er et problem at kaffen er i dette temperaturintervallet i bare en kort tidsperiode. Det er et kjent problem at kaffen først er for varm og når man kjenner på den igjen er den for kald. Dermed faller kaffens smak betraktelig og mange ender med å skylle ut. Den ønskelige situasjonen er at kaffen holder seg i et konstant temperaturintervall. 
 
-\subsubsection{Beskrivelse av produkt- og tjenestekonsept}
+\subsection{Beskrivelse av produkt- og tjenestekonsept}
 Vi tenker oss en kopp som på “magisk vis” holder innholdet på en behagelig, drikkbar temperatur. Dette realiseres gjennom en temperaturmåler og tilhørende mikrokontroller som befinner seg inne i koppen. Mikrokontrolleren drives av et lite batteri som lades ved hjelp av induksjon. I bunnen av koppen ligger et induksjonselement, som er atskilt væsken i koppen med en tynn plast-/glassfilm, for høy varmeledningsevne.
 
 Koppen er avhengig av en induksjonsplate som den skal plasseres oppå, ikke ulikt dagens induksjonsladere for mobiltelefoner. På platen er det mulig å stille inn ønsket temperatur på drikken fra et lite temperaturintervall. I tillegg er det en lampe som lyser når drikken er under oppvarming. Både platen og koppen har RF-teknologi for å kommunisere med hverandre.
@@ -11,4 +11,22 @@ Koppen er avhengig av en induksjonsplate som den skal plasseres oppå, ikke ulik
 Når koppen settes ned på platen registrerer en trykksensor at koppen er satt ned, og maskineriet starter. Mikrokontrolleren slår seg på og leser av temperaturen på væsken i koppen. Informasjonen sendes direkte til induksjonsplaten, som prosesserer denne og starter med å varme innholdet til oppgitt temperatur. Deretter skapes det en konstant magnetisk fluks i platen slik at induksjonselementet blir varmt, og dermed varmer væsken i koppen. Denne fulksen lader også opp batteriet til mikrokontrolleren i koppen. 
 Koppen sender relativt hurtige temperaturavlesninger til platen, og når det registreres temperaturer over grenseverdien, slutter platen å virke. Denne prosessen holder på så lenge koppen er plassert på platen. Hovedformålet er at innholdet i koppen skal kunne holde en konstant temperatur.
 
-\subsubsection{Teknologiske utfordringer knyttet til produksjon og lansering}
+\subsection{Teknologiske utfordringer knyttet til produksjon og lansering}
+Koppen skal inneholde en mikrokontrollerbrikke som skal kunne lese inn temperatur og opprettholde énveiskommunikasjon med induksjonsplaten. Et potensielt problem som kan oppstå er at brikken påvirkes av den høye temperaturen fra oppvarmingen av kaffen. Teknologien skal implementers i selve koppen, og må av den grunn kunne fungere optimalt selv når materialet rundt nærmer seg 100 grader. Mikrokontrolleren må også isoleres så koppen kan kjøres i oppvaskmaskinen uten at den blir skadet.
+
+En annen utfordring ved produktet vårt ligger i det å få plass til all teknologien i to komponenter - kopp og plate - som i teorien skal være små i omfang. Koppen skal inneholde en liten metallplate av neglisjerbar størrelse, men mikrokontrolleren må få plass inne i selve materialet på koppen. Den skal også isoleres til en viss grad mot degraderende faktorer. Platen skal huse induksjonsledning, trykksensor og mikrokontroller - eventuelt annen teknologi for blant annet strøm - og som resultat av dette vil kunne bli større enn antatt. 
+
+Av dette oppstår spørsmålet om produktet vårt vil få plass til all teknologien som skal til, og om koppen og platen må dimensjoneres større enn planlagt. Og om alle disse problemene løses, vil produktet med de funksjonene og den oppbygningen vi har bestemt oss for være lønnsomme å produsere?
+
+Når det gjelder lanseringen ser vi ikke for oss at omfattende utfordringer vil oppstå, men det gjelder å være forberedt på at noen av produktene bærer feilproduksjon. Mikrokontrollerne er sensitive komponenter, og på grunn av påkjenninger (spesielt fra den varme væsken) vil noen kunder oppleve at produktet deres skades eller ødelegges innen garantitiden.
+
+\section{Markedsbeskrivelse}
+\subsection{Hvordan kan markedet overordnet segmenteres/inndeles?}
+Vi ser for oss at dette produktet appelerer i høyest grad til personer som er glad i kaffe/te og som for det meste sitter på en fast plass og jobber, slik som i et kontor eller på en pult. Vi segmenterer markedet vårt demografisk. De mest interessante markedssegmentene for oss vil være 
+
+\begin{itemize}
+	\item Studenter
+	\item Sittestillende arbeidsplasser(kontor, fast arbeidsplass)
+	\item Alder
+	\item Kjønn
+\end{itemize}
