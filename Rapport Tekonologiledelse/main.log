@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2015.2.17)  18 FEB 2015 20:43
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2015.2.17)  18 FEB 2015 21:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -605,7 +605,16 @@ Package natbib Warning: Citation `bestekaffe' on page 4 undefined on input line
 
 [4
 
-]) (./content/vedlegg.tex [5]
+]
+
+Package natbib Warning: Citation `tmprod' on page 5 undefined on input line 37.
+
+
+
+Package natbib Warning: Citation `optimaldrikketemperatur' on page 5 undefined 
+on input line 37.
+
+[5]) (./content/vedlegg.tex [6]
 Chapter 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 6--14
@@ -632,7 +641,7 @@ No file main.bbl.
 
 Package natbib Warning: There were undefined citations.
 
-[6
+[7
 
 ] (./main.aux)
 
@@ -640,12 +649,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 14792 strings out of 495177
- 303605 string characters out of 6175607
+ 14794 strings out of 495177
+ 303638 string characters out of 6175607
  377434 words of memory out of 5000000
- 17946 multiletter control sequences out of 15000+600000
+ 17948 multiletter control sequences out of 15000+600000
  5987 words of font info for 49 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  42i,6n,59p,10374b,231s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (6 pages).
+Output written on main.pdf (7 pages).
