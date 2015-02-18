@@ -8,6 +8,8 @@
 \contentsline {subsection}{\numberline {2.1.3}Teknologiske utfordringer knyttet til produksjon og lansering}{4}
 \contentsline {section}{\numberline {2.2}Markedsbeskrivelse}{5}
 \contentsline {subsection}{\numberline {2.2.1}Hvordan kan markedet overordnet segmenteres/inndeles?}{5}
+\contentsline {subsection}{\numberline {2.2.2}Kort om inngangsbarrierer}{5}
+\contentsline {subsection}{\numberline {2.2.3}Kort om konkurrenter og substitutter}{5}
 \contentsline {section}{\numberline {2.3}Om organisering og økonomisk potensial}{5}
 \contentsline {subsection}{\numberline {2.3.1}Organisering}{5}
 \contentsline {subsubsection}{\nonumberline Kort om forretningsmodell}{5}
@@ -15,3 +17,8 @@
 \contentsline {section}{\numberline {2.4}Økonomisk potensial}{5}
 \contentsline {subsection}{\numberline {2.4.1}Kort om økonomisk potensial}{5}
 \contentsline {subsection}{\numberline {2.4.2}Finansieringsbehov og finansieringskilder}{5}
+\contentsline {chapter}{\numberline {3}Vedlegg}{6}
+\contentsline {section}{\numberline {3.1}Mail}{6}
+\contentsline {subsection}{\numberline {3.1.1}Svar fra Expert}{6}
+\contentsline {subsection}{\numberline {3.1.2}Svar fra Tilbords}{6}
+\contentsline {subsection}{\numberline {3.1.3}Svar fra Teknikkmagasinet}{6}
