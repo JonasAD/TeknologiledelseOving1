@@ -1,3 +1,4 @@
+\select@language {english}
 \contentsline {chapter}{\numberline {1}Brainstorming}{3}
 \contentsline {section}{\numberline {1.1}Kaffekopp som varmer kaffen}{3}
 \contentsline {section}{\numberline {1.2}Legitimasjon på mobilen}{3}
@@ -9,14 +10,18 @@
 \contentsline {section}{\numberline {2.2}Markedsbeskrivelse}{5}
 \contentsline {subsection}{\numberline {2.2.1}Hvordan kan markedet overordnet segmenteres/inndeles?}{5}
 \contentsline {subsection}{\numberline {2.2.2}Kort om inngangsbarrierer}{5}
-\contentsline {subsection}{\numberline {2.2.3}Kort om konkurrenter og substitutter}{5}
+\contentsline {paragraph}{\nonumberline Markedsføring}{5}
+\contentsline {paragraph}{\nonumberline Utvikling og produksjon av HeatPledger}{5}
+\contentsline {paragraph}{\nonumberline Avtaler}{5}
+\contentsline {paragraph}{\nonumberline Startkapital}{5}
+\contentsline {subsection}{\numberline {2.2.3}Kort om konkurrenter og substitutter}{6}
 \contentsline {section}{\numberline {2.3}Om organisering og økonomisk potensial}{6}
-\contentsline {subsection}{\numberline {2.3.1}Organisering}{6}
-\contentsline {subsubsection}{\nonumberline Kort om forretningsmodell}{6}
+\contentsline {subsection}{\numberline {2.3.1}Forretningsmodell}{6}
+\contentsline {subsection}{\numberline {2.3.2}Organisering}{6}
 \contentsline {subsubsection}{\nonumberline Hva gjør vi selv, hva outsourcer vi?}{6}
 \contentsline {section}{\numberline {2.4}Økonomisk potensial}{6}
-\contentsline {subsection}{\numberline {2.4.1}Kort om økonomisk potensial}{6}
-\contentsline {subsection}{\numberline {2.4.2}Finansieringsbehov og finansieringskilder}{6}
+\contentsline {subsection}{\numberline {2.4.1}Finansieringsbehov og finansieringskilder}{6}
+\contentsline {subsection}{\numberline {2.4.2}Kort om økonomisk potensial}{6}
 \contentsline {chapter}{\numberline {3}Vedlegg}{7}
 \contentsline {section}{\numberline {3.1}Mail}{7}
 \contentsline {subsection}{\numberline {3.1.1}Svar fra Expert}{7}
