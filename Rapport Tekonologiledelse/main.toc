@@ -19,8 +19,8 @@
 \contentsline {subsection}{\numberline {2.3.1}Forretningsmodell}{6}
 \contentsline {subsection}{\numberline {2.3.2}Organisering}{6}
 \contentsline {subsection}{\numberline {2.3.3}Hva gjør vi selv, hva outsourcer vi?}{6}
-\contentsline {subsection}{\numberline {2.3.4}Finansieringsbehov og finansieringskilder}{6}
-\contentsline {subsection}{\numberline {2.3.5}Økonomisk potensial}{6}
+\contentsline {subsection}{\numberline {2.3.4}Økonomisk potensial}{6}
+\contentsline {subsection}{\numberline {2.3.5}Finansieringsbehov og finansieringskilder}{7}
 \contentsline {chapter}{\numberline {3}Vedlegg}{8}
 \contentsline {section}{\numberline {3.1}Mail}{8}
 \contentsline {subsection}{\numberline {3.1.1}Svar fra Expert}{8}
